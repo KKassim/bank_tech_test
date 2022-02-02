@@ -21,17 +21,17 @@ Account statements return time of transaction, credit, debit and balance
 account = BankStatement.new()
 ```
 
-**Deposit an amount:-**
+**Deposit an amount:**
 ```ruby
 account.depo(100)
 ```
 
-**Withdraw an amount:-**
+**Withdraw an amount:**
 ```ruby
 account.withdraw(100)
 ```
 
-**Formatted account statements**
+**Formatted Account Statements:**
 ```ruby
 account.accstatement
 ```
@@ -42,6 +42,5 @@ Used requirements to sketch domain model with short methods with one responsibil
 Used raised error messaging to check to stop overdraft.
 
 ## Screenshot of Code
-
-
+![alt text](/relative/path/to/img.png?raw=true "banktechtest")
 
