@@ -1,0 +1,9 @@
+example_id                   | status | run_time        |
+---------------------------- | ------ | --------------- |
+./spec/banktest_spec.rb[1:1] | passed | 0.00036 seconds |
+./spec/banktest_spec.rb[1:2] | passed | 0.00025 seconds |
+./spec/banktest_spec.rb[1:3] | passed | 0.00088 seconds |
+./spec/banktest_spec.rb[1:4] | passed | 0.00004 seconds |
+./spec/banktest_spec.rb[1:5] | passed | 0.00023 seconds |
+./spec/banktest_spec.rb[1:6] | passed | 0.00351 seconds |
+./spec/banktest_spec.rb[1:7] | passed | 0.0004 seconds  |
