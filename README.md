@@ -42,5 +42,5 @@ Used requirements to sketch domain model with short methods with one responsibil
 Used raised error messaging to check to stop overdraft.
 
 ## Screenshot of Code
-![alt text](/relative/path/to/img.png?raw=true "banktechtest.png")
+![alt text](/relative/path/to/img.jpg?raw=true "banktechtest.png")
 
